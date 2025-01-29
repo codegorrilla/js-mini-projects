@@ -1,0 +1,14 @@
+.carousel {
+	position: relative;
+	width: 300px;
+	overflow: hidden;
+}
+
+.carousel-images {
+	display: flex;
+	transition: transform 0.5s ease;
+}
+
+.carousel-images img {
+	width: 300px; /* Adjust based on your needs */
+}
