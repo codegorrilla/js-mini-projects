@@ -1,4 +1,4 @@
-import '../scss/main.scss';
+import '../scss/styles.scss';
 
 //spread and rest operator
 //spread operator
